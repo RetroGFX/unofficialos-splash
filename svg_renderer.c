@@ -7,8 +7,8 @@
 #define SUBPIXEL_PRECISION 8  // Sub-pixel precision for anti-aliasing
 
 /* Original SVG dimensions used for scaling calculations */
-static const float BASE_SVG_WIDTH = 2178.0f;
-static const float BASE_SVG_HEIGHT = 222.0f;
+sstatic const float BASE_SVG_WIDTH = 2325.72f;
+static const float BASE_SVG_HEIGHT = 274.08f;
 
 /* Structure to track path intersections with scanlines */
 typedef struct {
